@@ -21,7 +21,7 @@ import com.dragonlicat.kafka.demo.utils.ViewTools;
  * Function: TODO ADD FUNCTION. <br/> 
  * Reason:   TODO ADD REASON. <br/> 
  * Date:     2018年8月19日 下午1:52:37 <br/> 
- * @author   shichengshan 
+ * @author   DANAODAI 
  * @version   
  * @since    JDK 1.8
  * @see       

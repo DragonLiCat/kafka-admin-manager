@@ -27,7 +27,7 @@ import com.dragonlicat.kafka.demo.service.AdminKafkaClientServ;
  * Function: TODO ADD FUNCTION. <br/> 
  * Reason:   TODO ADD REASON. <br/> 
  * Date:     2018年8月19日 下午1:38:23 <br/> 
- * @author   shichengshan 
+ * @author   DANAODAI 
  * @version  
  * @since    JDK 1.8
  * @see       

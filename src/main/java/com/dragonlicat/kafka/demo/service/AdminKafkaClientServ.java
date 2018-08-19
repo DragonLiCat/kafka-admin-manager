@@ -17,7 +17,7 @@ import org.springframework.stereotype.Service;
  * Function: TODO ADD FUNCTION. <br/> 
  * Reason:   TODO ADD REASON. <br/> 
  * Date:     2018年8月19日 下午1:38:23 <br/> 
- * @author   shichengshan 
+ * @author   DANAODAI 
  * @version   
  * @since    JDK 1.8
  * @see       
@@ -34,7 +34,7 @@ public interface AdminKafkaClientServ {
    * TODO(这里描述这个方法的使用方法 – 可选).<br/> 
    * TODO(这里描述这个方法的注意事项 – 可选).<br/> 
    * 
-   * @author shichengshan
+   * @author DANAODAI
    * @return 
    * @since JDK 1.8
    */
@@ -48,7 +48,7 @@ public interface AdminKafkaClientServ {
    * TODO(这里描述这个方法的使用方法 – 可选).<br/> 
    * TODO(这里描述这个方法的注意事项 – 可选).<br/> 
    * 
-   * @author shichengshan 
+   * @author DANAODAI 
    * @since JDK 1.8
    */
   public  void  descConsumner();
