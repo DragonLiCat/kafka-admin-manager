@@ -2,14 +2,18 @@
 *.class
 
 #idea file
- .idea/
- .mvn/
- *.iml
+.idea/
+.mvn/
+*.iml
+*.cmd
+.settings/
+.project
+.classpath
  
- #java file
- logs/
- log/
- target/
+#java file
+logs/
+log/
+target/
  
 
 # Log file
