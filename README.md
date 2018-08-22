@@ -1,2 +1,2 @@
-# kafka-demo
-kafka  adminclient  producer consumer ..
+# kafka-adminclient-demo
+kafka  adminclient  ..
