@@ -39,7 +39,7 @@
             <!--<appender-ref ref="ERROR" />-->
             <appender-ref ref="RollingInfoFile"/>
             <appender-ref ref="RollingErrorFile"/>
-            <appender-ref ref="RollingDebugFile"/>
+            <appender-ref ref="RollingDebugFile"/>  
             <appender-ref ref="Console"/>
         </Root>
     </Loggers>
